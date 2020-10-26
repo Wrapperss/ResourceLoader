@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ResourceLoader_Example' do
+  pod 'ResourceLoader', :path => '../'
+
+  target 'ResourceLoader_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

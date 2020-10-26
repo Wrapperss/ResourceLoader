@@ -1,0 +1,6 @@
+framework module ResourceLoader {
+  umbrella header "ResourceLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}

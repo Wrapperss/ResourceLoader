@@ -1,0 +1,16 @@
+PODS:
+  - ResourceLoader (0.1.0)
+
+DEPENDENCIES:
+  - ResourceLoader (from `../`)
+
+EXTERNAL SOURCES:
+  ResourceLoader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ResourceLoader: d9ec10a4da80885ccf046dbe05390a58ba06ff1b
+
+PODFILE CHECKSUM: 43a0206406c7dcb6392ee385c86f8f831a9fae6c
+
+COCOAPODS: 1.9.3
